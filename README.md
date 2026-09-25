@@ -50,8 +50,7 @@
 ### 📊 Statistiques GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimsava&show_icons=true&hide_border=true" alt="Statistiques GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsava&layout=compact&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://streak-stats.demolab.com?user=ibrahimsava&hide_border=true&locale=fr" alt="Contributions GitHub" />
 </p>
 
 ### 📫 Me contacter
