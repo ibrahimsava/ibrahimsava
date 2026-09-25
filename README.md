@@ -1,6 +1,6 @@
 ## Bonjour, je suis Ibrahim Savadogo 👋
 
-**Développeur Full Stack** · Java / Spring Boot · Angular · Flutter : je construis des applications de bout en bout, du microservice à l'interface.
+**Développeur Full Stack** · Java / Spring Boot · Python / Django · Angular · Flutter : je construis des applications de bout en bout, du microservice à l'interface.
 
 - 🏦 En ce moment : une plateforme de micro-finance en microservices (Spring Boot, Angular, Docker, RabbitMQ)
 - 🎓 Projet de master : une application d'irrigation intelligente contre le gaspillage d'eau
@@ -8,7 +8,7 @@
 ### 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,html,css,flutter,dart,python,cpp" alt="Java, Spring, Angular, TypeScript, HTML, CSS, Flutter, Dart, Python, C++" /><br />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,angular,ts,html,css,flutter,dart,cpp" alt="Java, Spring, Python, Django, Angular, TypeScript, HTML, CSS, Flutter, Dart, C++" /><br />
   <img src="https://skillicons.dev/icons?i=postgres,mysql,rabbitmq,docker,git,idea,vscode" alt="PostgreSQL, MySQL, RabbitMQ, Docker, Git, IntelliJ IDEA, VS Code" />
 </p>
 
@@ -22,7 +22,7 @@
 | [Architecture Java bancaire](https://github.com/ibrahimsava/First_Project_JAVA) | Architecture évolutive, exemple d'app bancaire | Java | ![stars](https://img.shields.io/github/stars/ibrahimsava/First_Project_JAVA?style=flat-square) | ![last commit](https://img.shields.io/github/last-commit/ibrahimsava/First_Project_JAVA?style=flat-square) |
 | [Calcul de moyennes](https://github.com/ibrahimsava/angular_app_calculemoyenne) | Front Angular + [back Spring Boot](https://github.com/ibrahimsava/back_calculdesmoyennes) | Angular, Spring | ![stars](https://img.shields.io/github/stars/ibrahimsava/angular_app_calculemoyenne?style=flat-square) | ![last commit](https://img.shields.io/github/last-commit/ibrahimsava/angular_app_calculemoyenne?style=flat-square) |
 | [Authentification Flutter](https://github.com/ibrahimsava/auth_flutter-) | App mobile connectée à mon back-end | Flutter, Dart | ![stars](https://img.shields.io/github/stars/ibrahimsava/auth_flutter-?style=flat-square) | ![last commit](https://img.shields.io/github/last-commit/ibrahimsava/auth_flutter-?style=flat-square) |
-| [Gestion des employés](https://github.com/ibrahimsava/site_degestions_des_employes) | Site RH de gestion des fiches employés | Python | ![stars](https://img.shields.io/github/stars/ibrahimsava/site_degestions_des_employes?style=flat-square) | ![last commit](https://img.shields.io/github/last-commit/ibrahimsava/site_degestions_des_employes?style=flat-square) |
+| [Gestion des employés](https://github.com/ibrahimsava/site_degestions_des_employes) | Site RH de gestion des fiches employés | Python, Django | ![stars](https://img.shields.io/github/stars/ibrahimsava/site_degestions_des_employes?style=flat-square) | ![last commit](https://img.shields.io/github/last-commit/ibrahimsava/site_degestions_des_employes?style=flat-square) |
 
 ### 📊 Statistiques GitHub
 
